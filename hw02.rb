@@ -7,7 +7,7 @@ module MyArrayMethods
       Array.new
     end
     def my_each
-dfghdfghdfghfghfg
+dfghdfghdfghfghfgg
     end
   end    
 end
